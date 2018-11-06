@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:TestPodViewTouch.xcodeproj">
+      location = "self:TableViewCell_Demo.xcodeproj">
    </FileRef>
 </Workspace>
